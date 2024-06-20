@@ -1,0 +1,15 @@
+Crops,Pathogen,Effect on Pathogen,Temperature,Impact on Food Yield
+Rice,Rice Blast,Increased infestation,Higher temperatures,Reduced yield
+Soybeans,Soybean Rust,Faster spread,Warmer conditions,Reduced yield
+Peanuts,Peanut Leaf Spot,More frequent attacks,Higher temperatures,Reduced yield
+Cotton,Cotton Boll Rot,Widespread outbreaks,Warmer conditions,Reduced yield
+Tomatoes,Tomato Blight,Higher occurrence,Higher temperatures,Reduced yield
+Potatoes,Potato Late Blight,More aggressive spread,Higher temperatures,Reduced productivity
+Cassava,Cassava Mosaic Virus,Rapid spread,Higher temperatures,Reduced yield
+Bananas,Black Sigatoka,Severe infection rates,Warmer conditions,Reduced productivity
+Coffee,Coffee Leaf Rust,Greater spread,Higher temperatures,Reduced yield
+Apples,Fire Blight,Higher infection rates,Warmer conditions,Reduced productivity
+Oranges,Citrus Greening,Increased spread,Warmer conditions,Reduced yield
+Lettuce,Lettuce Downy Mildew,Greater severity,Higher temperatures,Reduced yield
+Carrots,Carrot Leaf Blight,Higher infection rates,wetter conditions,Reduced productivity
+Cucumbers,Cucumber Mosaic Virus,Enhanced virulence,Warmer conditions,Reduced productivity
